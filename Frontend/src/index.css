@@ -1,0 +1,25 @@
+body{
+  /* background: linear-gradient(111deg, #0093E9 -34.37%, #80D0C7 104.4%); */
+  overflow-x: hidden;
+  max-width: 100vw;
+}
+
+body::-webkit-scrollbar {
+  width: 0.6em;
+}
+
+body::-webkit-scrollbar-track {
+  /* box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3); */
+  outline: none;
+  border: none;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #0093E9;
+  background-image: -webkit-linear-gradient(180deg, #0093E9 0%, #41beb0 100%);
+  background-image: -moz-linear-gradient(180deg, #0093E9 0%, #41beb0 100%);
+  background-image: -o-linear-gradient(180deg, #0093E9 0%, #41beb0 100%);
+  background-image: linear-gradient(180deg, #0093E9 0%, #41beb0 100%);
+  border-radius: 10px;
+
+}

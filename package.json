@@ -1,0 +1,27 @@
+{
+  "name": "ed_4_all",
+  "version": "1.0.0",
+  "description": "https://replit.com/@jaydeepdey03/DeCodeHub-Frontend?v=1",
+  "main": "index.js",
+  "scripts": {
+    "install-server": "cd Backend && npm install",
+    "start-server": "cd Backend && node index.js",
+    "install-client": "cd Frontend && npm install",
+    "build-client": "cd Frontend && npm run build",
+    "start-client": "cd Frontend && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FidalMathew/Ed_4_All.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FidalMathew/Ed_4_All/issues"
+  },
+  "homepage": "https://github.com/FidalMathew/Ed_4_All#readme",
+  "dependencies": {
+    "react-loader-spinner": "^5.3.4"
+  }
+}

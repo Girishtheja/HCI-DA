@@ -1,0 +1,21 @@
+.nft {
+    background: linear-gradient(90.11deg, #4745BA -9.64%, #8F00A6 128.8%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    font-size: 2rem;
+    margin-bottom: 0.8rem;
+}
+
+.doubt {
+    background: linear-gradient(90deg, #0068A5 56.12%, #5370F4 112.4%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+.decen{
+    color: #3248B1;
+}
